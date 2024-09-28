@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "72e2164508878090",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a1dcee35699ef1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6eedb0e77a12825",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "77bf44db68b2bcc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c1db314591582c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d43cd2602ad5dd4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "93a039c9fa060f7c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8f1760d52248d8df",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "663f991c581e13fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e7cfe673261f52e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4ae21407e65e1f7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Chapter Six - Hosting Services and Authentication.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "534a25621a00c579",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Chapter Six - Hosting Services and Authentication.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5ab3b22d1c109335",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "09306eff484e119c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Chapter Six - Hosting Services and Authentication.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "active": "1d43cd2602ad5dd4",
+  "lastOpenFiles": [
+    "Chapter Seven - Creating and Pushing to a Remote Repository.md",
+    "Pasted image 20240712190538.png",
+    "Pasted image 20240712190519.png",
+    "Pasted image 20240712185757.png",
+    "Pasted image 20240712185501.png",
+    "Pasted image 20240712184557.png",
+    "Pasted image 20240712171658.png",
+    "Pasted image 20240712171545.png",
+    "Pasted image 20240712171307.png",
+    "Pasted image 20240712171215.png",
+    "Pasted image 20240712151008.png",
+    "Chapter Six - Hosting Services and Authentication.md",
+    "Chapter Five - Merging.md",
+    "Chapter Four.md",
+    "Chapter Three.md",
+    "Chapter Two.md",
+    "Chapter one.md",
+    "Untitled",
+    "Chapter Three",
+    "Untitled.canvas",
+    "2024-06-10.md"
+  ]
+}
